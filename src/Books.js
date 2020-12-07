@@ -8,7 +8,7 @@ class Books extends Component {
       this.state = {
           books:[],
           searchField: '',
-          bookType: '',
+          filter: '',
           printType: ''
       }
     }
@@ -29,8 +29,8 @@ class Books extends Component {
     handleSubmit = (e) => {
       e.preventDefault();
       let key = 'AIzaSyCZpwG98Mk3oQOoAClpWwcXi28JoV9pqhQ'
-      // let url =`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchField}&printType=${this.state.printType}&filter=${this.state.filter}&key=${key}`;
-      let url =`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchField}&key=${key}`;
+      let url =`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchField}&printType=${this.state.printType}&filter=${this.state.filter}&key=${key}`;
+      // let url =`https://www.googleapis.com/books/v1/volumes?q=${this.state.searchField}&key=${key}`;
       fetch(url)
         .then(response => response.json())
         .then((data) => {
