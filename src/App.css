@@ -17,3 +17,8 @@ header h1 {
   display: inline;
   font-weight: 400;
 }
+
+.search-area {
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
