@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-<<<<<<< HEAD
   margin: 0;
   padding: 0;
 }
@@ -20,19 +19,6 @@ header {
   margin: auto;
   padding: 30px 0 30px 0;
   width: 75%;
-=======
-  margin: 1;
-}
-
-
-header {
-  text-align: center;
-  background-color: darkgrey;
-  padding: 30px 0 30px 0;
-  width: 75%;
-  margin: auto;
-  color: #EFEFEF;
->>>>>>> 36e0e6934fb8f23e2acea2ec723f5241fa2aeb33
 }
 
 header h1 {
@@ -43,8 +29,4 @@ header h1 {
 .search-area {
   text-align: center;
   padding: 10px 0 10px 0;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 36e0e6934fb8f23e2acea2ec723f5241fa2aeb33
