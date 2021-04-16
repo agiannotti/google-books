@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import SearchArea from './SearchArea';
+import SearchArea from '../Search/SearchArea';
 import BookList from './Booklist';
 
 class Books extends Component {

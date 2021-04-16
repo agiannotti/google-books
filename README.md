@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# Console.dev App
+
+# Bookfind App
 
 [Live Client Deployment]
 [Live Server Deployment]
@@ -15,8 +16,8 @@ npm start
 
 ## Technology Used
 
-Client:
-=======
+# Client:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -87,4 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 36e0e6934fb8f23e2acea2ec723f5241fa2aeb33
+
+> > > > > > > 36e0e6934fb8f23e2acea2ec723f5241fa2aeb33
