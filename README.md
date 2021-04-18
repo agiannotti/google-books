@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
 # Bookfind App
-
-[Live Client Deployment]
-[Live Server Deployment]
 
 ## Summary
 
@@ -19,8 +14,6 @@ npm start
 # Client:
 
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
